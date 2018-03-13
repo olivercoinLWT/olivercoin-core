@@ -74,7 +74,7 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "olivercoin";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001f6cdbf5f029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101b1e79a9b9c6652f1a9a8c180d5f3cdbbd5f2e245cc41c24e7a9c752c4fe8c26f";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "013c01ff0001a2b8eca625029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121012740711a8943fe2542bfc4a0d6fa984ce2b293b4948012e1d170ab7a1a7a47a1";
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
